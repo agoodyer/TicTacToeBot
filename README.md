@@ -30,6 +30,23 @@ TicTacToeBot is a remote-operated vehicle and control system built for the **202
 
 ---
 
+## ⚡ Performance in Action
+
+The TicTacToeBot was engineered for aggressive speed and agility, ultimately achieving the **Fastest Time-To-Complete** of any team in the senior design challenge.
+
+<p align="center">
+  <img src="assets/bot_run.webp" width="600" alt="TicTacToeBot Speed Run">
+  <br>
+  <em>Real-time relay: TicTacToeBot navigating the 2023 MEC obstacle course.</em>
+</p>
+
+---
+
+### Technical Highlights in this Run:
+* **Tank-Turn Precision:** Observe the rapid direction changes enabled by the dedicated **SPIN button**, which allows the drive wheels to rotate in opposing directions.
+* **Low-Latency Handling:** Near-instantaneous response times facilitated by a high-frequency ESP32 wireless polling loop.
+* **Minimalist Stability:** The 3-point contact chassis provides a compact center of mass, allowing for high-speed cornering without losing traction.
+
 ## 📋 Bill of Materials (BOM)
 
 The hardware was carefully selected to maximize performance within strict competition constraints:
