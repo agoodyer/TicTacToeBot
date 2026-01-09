@@ -1,15 +1,18 @@
-# 🤖 TicTacToeBot
-**A high-speed, wireless robotics system designed for competitive precision and speed.**
-
 <p align="center">
-  <img src="assets/logo.svg" width="35" valign="middle" alt="TicTacToeBot Logo" />
+  <img src="assets/logo.png" width="600" valign="middle" alt="TicTacToeBot Logo" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-ESP32%20%7C%20Arduino-blue" alt="Platform">
   <img src="https://img.shields.io/badge/2023_McMaster_Eng_Comp-2nd_Place-850633" alt="Competition">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
 </p>
+
+**A high-speed, wireless robotics system designed for competitive precision and speed.**
+
+
 
 TicTacToeBot is a remote-operated vehicle and control system built for the **2023 McMaster Engineering Competition (Senior Design Challenge)**. The project features a custom-built robot and a low-latency wireless controller designed to navigate obstacle courses and execute precise movements to win an advanced Tic-Tac-Toe relay.
 
